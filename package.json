@@ -1,0 +1,19 @@
+{
+  "name": "davincicodeclient",
+  "version": "1.0.0",
+  "description": "Client App for Web Level (1st Level), DaVinciCode AR Based Treasure Hunt, Dyuksha 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/muralikrishnana/daVinciCodeClient.git"
+  },
+  "author": "Murali Krishnan A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muralikrishnana/daVinciCodeClient/issues"
+  },
+  "homepage": "https://github.com/muralikrishnana/daVinciCodeClient#readme"
+}
